@@ -18,6 +18,8 @@ Back End:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/>     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>    
 
+<div class="tenor-gif-embed" data-postid="26049520" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-games-gif-26049520">Computer Games GIF</a>from <a href="https://tenor.com/search/computer+games-gifs">Computer Games GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 ![Snake animation](https://github.com/Guilherme_Tavares93/Guilherme_Tavares93/blob/output/github-contribution-grid-snake.svg)
        
        
