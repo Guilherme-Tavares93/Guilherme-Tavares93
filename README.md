@@ -8,7 +8,7 @@
 <a href = "mailto:grtavares@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-
+<div class="tenor-gif-embed" data-postid="17607702050898124646" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/exploding-head-laptop-computers-laptop-computer-computer-games-new-computers-gif-17607702050898124646">Exploding Head Laptop Computers Sticker</a>from <a href="https://tenor.com/search/exploding+head-stickers">Exploding Head Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🚀 My knowledge in Programming is:
 
@@ -22,7 +22,7 @@ Back End:
 
 
 <div>
-<a href="https://github.com/Guilherme_Tavares93">
+<a href="https://github.com/Guilherme-Tavares93">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Tavares93&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Tavares93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
