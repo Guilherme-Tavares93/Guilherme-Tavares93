@@ -8,7 +8,6 @@
 <a href = "mailto:grtavares@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-<div class="tenor-gif-embed" data-postid="17607702050898124646" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/exploding-head-laptop-computers-laptop-computer-computer-games-new-computers-gif-17607702050898124646">Exploding Head Laptop Computers Sticker</a>from <a href="https://tenor.com/search/exploding+head-stickers">Exploding Head Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🚀 My knowledge in Programming is:
 
