@@ -26,7 +26,17 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,javascript,c,mysql" /><br>
 </div>
+<hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 <div>
 <a href="https://github.com/Guilherme-Tavares93">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Tavares93&layout=compact&langs_count=7&theme=dracula"/>
@@ -35,7 +45,10 @@
 
 <div class="tenor-gif-embed" data-postid="4011236" data-share-method="host" data-aspect-ratio="1.86667" data-width="100%"><a href="https://tenor.com/view/the-matrix-reloaded-matrix-reloaded-neo-keanu-reeves-gif-4011236">Neo Re-materializing - The Matrix Reloaded GIF</a>from <a href="https://tenor.com/search/the+matrix+reloaded-gifs">The Matrix Reloaded GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-![Snake animation](https://github.com/Guilherme-Tavares93/Guilherme-Tavares93/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/Guilherme-Tavares93/Guilherme-Tavares93/blob/main/output/github-contribution-grid-snake.svg)
+
+
        
        
           
