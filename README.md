@@ -1,6 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Guilherme-Tavares93.Guilherme-Tavares93" />
 
-- 👋 Hi, I’m @Guilherme-Tavares93
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Guilherme+Tavarees!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
 - 👀 I’m interested in Drawing, Computers, Movies...
 - 🌱 I’m currently learning Java ...
 - 💞️ I’m looking to collaborate on Frontend and Backend...
