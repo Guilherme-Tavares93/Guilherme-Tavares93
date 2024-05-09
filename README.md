@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Guilherme-Tavares93.Guilherme-Tavares93" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Guilherme+Tavarees!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+👋;+I'm+Guilherme+Tavares!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A programming fan from Brazil </h3>
 
 <br/>
 
@@ -12,6 +12,7 @@
 - 👀 I’m interested in Drawing, Computers, Movies...
 - 🌱 I’m currently learning Java ...
 - 💞️ I’m looking to collaborate on Frontend and Backend...
+ </div>
 - 📫 How to reach me :
 <div>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
